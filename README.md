@@ -1,2 +1,2 @@
 # Kunskapskontroll_3
-Testing commit
+Kunskapskontroll 3 is about rendering grphics related to housing affairs in California. I do not yet know the scope or difficulties of the task...
