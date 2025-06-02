@@ -1,2 +1,4 @@
 # Kunskapskontroll_3
-Kunskapskontroll 3 is about rendering grphics related to housing affairs in California. I do not yet know the scope or difficulties of the task...
+Kunskapskontroll 3 is about doing basic data validation/analysis and rendering graphics related to housing affairs in California. 
+
+There is a map over California as well as a file with data to use.
